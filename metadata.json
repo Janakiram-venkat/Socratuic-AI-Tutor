@@ -1,0 +1,7 @@
+{
+  "name": "Socratic AI Tutor 2.0",
+  "description": "An interactive, voice-enabled AI tutor that uses the Socratic method to guide learning, featuring personalized roadmaps and gamification.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
